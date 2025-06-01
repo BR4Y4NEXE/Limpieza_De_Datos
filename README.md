@@ -52,7 +52,3 @@ Para ejecutar este proyecto, necesitarás tener instaladas las siguientes biblio
 * numpy
 * matplotlib
 * seaborn
-
-Puedes instalarlas usando pip:
-```bash
-pip install pandas numpy matplotlib seaborn
